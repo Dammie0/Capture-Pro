@@ -1,0 +1,8 @@
+{
+  "name": "Screen Recorder Pro",
+  "description": "A clean, minimal web-based screen recorder app designed for video content creators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
